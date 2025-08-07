@@ -5,7 +5,7 @@
 | **이름**                | **설명**                                     | **역할** |
 | -------------------------- | -------------------------------------------- | ------- |
 | [BambiTalk](https://github.com/soo96/bambitalk-app/tree/main)      | 부부가 함께 사용하는 육아 일정 및 실시간 채팅 서비스 | 프론트엔드, 백엔드    |
-| [CatchLive](https://github.com/Catch-Live/catch-live-app) | 중복 발급 방지용 -> inviteCode 저장          | 프론트엔드, 백엔드    |
+| [CatchLive](https://github.com/Catch-Live/catch-live-app) | 라이브 스트리밍 자동 감지 및 녹화 서비스          | 프론트엔드, 백엔드    |
 
 
 ### 🛠️ Tech Stacks
