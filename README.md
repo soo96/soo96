@@ -15,7 +15,6 @@
 | **이름**                | **설명**                                     | **역할** |
 | -------------------------- | -------------------------------------------- | ------- |
 | [Pagely](https://github.com/Pagely-wisely) | MSA 기반 독서 커뮤니티 플랫폼 (결제·중고마켓 등 도메인별 서비스 분리) | 백엔드 / 결제·중고마켓 서비스 담당 |
-| [BambiTalk](https://github.com/soo96/bambitalk-app/tree/main)      | 부부가 함께 사용하는 육아 일정 및 실시간 채팅 서비스 | 프론트엔드, 백엔드    |
 | [CatchLive](https://github.com/Catch-Live/catch-live-app) | 라이브 스트리밍 자동 감지 및 녹화 서비스          | 프론트엔드, 백엔드    |
 <br/>
 
